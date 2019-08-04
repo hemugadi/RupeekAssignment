@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Location suggestions</string>
+    <string name="welcome_msg">Welcome to TravelMate</string>
+    <string name="hello_msg">Hi %s,</string>
+    <string name="loading">Loading...</string>
+    <string name="butn1_text">Price per person\n₹ %s</string>
+    <string name="butn2_text">BOOK NOW</string>
+</resources>

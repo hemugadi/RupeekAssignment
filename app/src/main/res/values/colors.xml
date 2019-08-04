@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="boredr_color">#06e6f9</color>
+    <color name="text_color">#7C8495</color>
+    <color name="text_green">#059176</color>
+    <color name="text_bag">#E7FCF8</color>
+    <color name="text_black">#373C4A</color>
+    <color name="text_gray">#4A4A4A</color>
+</resources>
